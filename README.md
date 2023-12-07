@@ -2,6 +2,15 @@
 Třída pro zjištění připojených monitorů a jejich EDID
 
 .NET Framework 2.0
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Popis Použití Knihovny pro Zpracování Obrázků</title>
+</head>
+<body>
     <p>Tato knihovna poskytuje možnost získání informací o konfiguraci monitorů, cest a režimů. 📊</p>
 
     <h2>👨‍💻 Příklad 1: Získání informací o konfiguraci monitorů</h2>
@@ -63,3 +72,6 @@ else
 }
         </code>
     </pre>
+
+</body>
+</html>
